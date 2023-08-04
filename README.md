@@ -8,3 +8,13 @@
 5. Data Analysis by Pivot Tables and Excel Functions
 6. Data Visualization to create charts and custom sheets to show the insights
 7. Report/ Dashboard creation from start to end
+
+
+Analyzed Road Accident Data Using Excel. Analyzed & Established Relationship Between Various Casualties(Fetal,Serious & Slight) on Various factors such as :-
+
+Total Casualties by Vehicle Type.
+Casualties by Road Type.
+Casualties by Road Surface.
+Casualties by Location/Area.
+Casualties by Light Condition.
+Casualties by Monthly Trend.
